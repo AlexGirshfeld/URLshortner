@@ -1,6 +1,0 @@
-com/urlshortener/repository/UrlRepository.class
-com/urlshortener/Application.class
-com/urlshortener/service/UrlService.class
-com/urlshortener/model/Url.class
-com/urlshortener/config/RedisConfig.class
-com/urlshortener/controller/UrlController.class

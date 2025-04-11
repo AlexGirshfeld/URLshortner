@@ -1,6 +1,0 @@
-/home/alex/urlshortner/files/src/main/java/com/urlshortener/Application.java
-/home/alex/urlshortner/files/src/main/java/com/urlshortener/controller/UrlController.java
-/home/alex/urlshortner/files/src/main/java/com/urlshortener/config/RedisConfig.java
-/home/alex/urlshortner/files/src/main/java/com/urlshortener/service/UrlService.java
-/home/alex/urlshortner/files/src/main/java/com/urlshortener/model/Url.java
-/home/alex/urlshortner/files/src/main/java/com/urlshortener/repository/UrlRepository.java
